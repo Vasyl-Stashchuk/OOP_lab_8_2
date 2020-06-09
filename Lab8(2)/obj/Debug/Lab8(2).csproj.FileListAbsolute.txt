@@ -1,0 +1,12 @@
+E:\Arbeit\Lab8(2)\Lab8(2)\obj\Debug\Lab8(2).csprojAssemblyReference.cache
+E:\Arbeit\Lab8(2)\Lab8(2)\obj\Debug\Lab8_2_.Form1.resources
+E:\Arbeit\Lab8(2)\Lab8(2)\obj\Debug\Lab8_2_.Properties.Resources.resources
+E:\Arbeit\Lab8(2)\Lab8(2)\obj\Debug\Lab8(2).csproj.GenerateResource.cache
+E:\Arbeit\Lab8(2)\Lab8(2)\obj\Debug\Lab8(2).csproj.CoreCompileInputs.cache
+E:\Arbeit\Lab8(2)\Lab8(2)\bin\Debug\Lab8(2).exe.config
+E:\Arbeit\Lab8(2)\Lab8(2)\bin\Debug\Lab8(2).exe
+E:\Arbeit\Lab8(2)\Lab8(2)\bin\Debug\Lab8(2).pdb
+E:\Arbeit\Lab8(2)\Lab8(2)\obj\Debug\Lab8(2).exe
+E:\Arbeit\Lab8(2)\Lab8(2)\obj\Debug\Lab8(2).pdb
+E:\Arbeit\Lab8(2)\Lab8(2)\obj\Debug\Lab8_2_.AddForm.resources
+E:\Arbeit\Lab8(2)\Lab8(2)\obj\Debug\Lab8_2_.EditForm.resources
